@@ -18,6 +18,18 @@
 - A whole lot of different block types
 - More
 
+#### Documentation
+
+For a detailed analysis of the codebase architecture, including:
+- Overall file and code structure
+- Main function workflow
+- Block structure and rendering system
+- World generation algorithm
+- Game design patterns used
+
+See [ARCHITECTURE_ANALYSIS.md](ARCHITECTURE_ANALYSIS.md) (한국어 / Korean - Detailed)  
+or [ARCHITECTURE_SUMMARY.md](ARCHITECTURE_SUMMARY.md) (English - Summary)
+
 #### Building
 
 ##### Unix-like
