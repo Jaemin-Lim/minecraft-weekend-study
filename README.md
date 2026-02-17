@@ -27,7 +27,8 @@ For a detailed analysis of the codebase architecture, including:
 - World generation algorithm
 - Game design patterns used
 
-See [ARCHITECTURE_ANALYSIS.md](ARCHITECTURE_ANALYSIS.md) (한국어)
+See [ARCHITECTURE_ANALYSIS.md](ARCHITECTURE_ANALYSIS.md) (한국어 / Korean - Detailed)  
+or [ARCHITECTURE_SUMMARY.md](ARCHITECTURE_SUMMARY.md) (English - Summary)
 
 #### Building
 
